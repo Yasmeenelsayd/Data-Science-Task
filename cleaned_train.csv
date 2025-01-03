@@ -1,0 +1,576 @@
+ID,Brand,VehicleModel,ManufacturingYear,Type,rating,color,Duty,fuel,CylinderCount,type of gear,capacity,Odometer,#airbags,price
+9,Toyota,I own Camry.,2014,SEDAN,3.0,Jet Black,-9606.0,Electric Hybrid,4.0,others,2.5,398069  kilometer,12,1098
+48,Honda,Civic,2016,Sedan,7.0,Sapphire Blue,10891.0,Gas,0.0,R,0,87768  kilometer,4,34889
+123,Hyundai,H1,2008,minivan,0.0,Lemon Yellow,1347.0,Dies,4.0,others,2.5,74444 km,4,13328
+127,Hyundai,H1,2011,minivan,2.0,Lemon Yellow,862.0,Dies,0.0,auto,2.5,124444  kilo,4,22894
+130,Lexus,I have the fastest model ever.. yes you got it right it's GX 460,2010,jeep,7.0,Jet Black,1811.0,Gas,18.0,auto,0,155821  kilo,0,39829
+131,Lexus,I own GX 460.,2015,jeep,0.0,Jet Black,1646.0,Gas,8.0,auto,4.6,102907 km,0,706
+133,Mercedes-Benz,E 300,2017,Sedan4,1.0,Jet Black,-8983.0,Gas,4.0,others,2,50930  kilo,12,22580
+235,Mercedes-Benz,my model which is GLA 250 is the best,2017,jeep,1.0,Jet Black,1017.0,Gas,4.0,others,2,44995 km,0,42651
+282,Hyundai,H1,2016,universal,2.0,Metallic,1091.0,Dies,4.0,others,2.5,97129 km,4,43576
+321,Toyota,I have the fastest model ever.. yes you got it right it's Prius,2012,sedan,3.0,Pearl White,586.0,Electric Hybrid,4.0,auto,1.8,TOTAL 22400 km,8,17249
+333,Toyota,I own CHR.,2019,Jeep0,3.0,Sapphire Blue,-8923.0,Gas,4.0,auto,2,24339 KM,12,627
+335,BMW,I own X5.,2012,Jeep1,0.0,Jet Black,919.0,Dies,6.0,auto,3,420794 KM,12,12388
+351,Lexus,CT 200H,2014,hatchback,1.0,Crimson,308.0,Electric Hybrid,4.0,auto,1.8,132563  kilo,100,10349
+391,Toyota,my model which is Prius is the best,2011,hatchback,3.0,Metallic,10645.0,Electric Hybrid,4.0,AUTO,1.8,284678  kilometer,12,12544
+440,Toyota,my model which is Prius is the best,2009,hatchback,5.0,Sapphire Blue,878.0,Electric Hybrid,4.0,auto,1.8,174000 KM,8,15367
+467,Lexus,I have the fastest model ever.. yes you got it right it's GX 470,2008,JEEP,-1.0,Pearl White,2455.0,Gas,8.0,auto,4.7,TOTAL 263190 km,0,862
+501,Toyota,my model which is Corolla is the best,2014,sedan,2.0,Metallic,1266.0,Electric Hybrid,4.0,auto,1.5,100000 km,8,10976
+510,Hyundai,I have the fastest model ever.. yes you got it right it's Tucson,2017,jeep,1.0,Pearl White,877.0,Dies,4.0,auto,1.7,97880 KM,4,35570
+535,Honda,I own Civic.,1918,Sedan,0.0,Pearl White,1079.0,Gas,4.0,auto,2,0 km,4,38213
+578,Toyota,Prius,2014,HATCHBACK,3.0,Pearl White,308.0,Electric Hybrid,4.0,others,1.8,140414 km,112,188
+635,Toyota,my model which is Highlander is the best,2014,Sedan4,1.0,Jet Black,517.0,Electric Hybrid,6.0,gear,3.5,TOTAL 166560 km,1012,39201
+638,Chevrolet,I have the fastest model ever.. yes you got it right it's Malibu,2012,WOOW Sedan,2.0,Metallic,642.0,Gas,4.0,others,2,TOTAL 65006 km,4,21699
+652,Hyundai,my model which is Elantra is the best,2013,sedan,3.0,Charcoal,585.0,Gas,4.0,auto,1.8,117000 km,8,18503
+718,Audi,A7,2014,WOOW Hatchback,1.0,Charcoal,10915.0,Gas,6.0,auto,3,191373 km,0,9565
+757,nissan,Frontier,2017,SEDAN,0.0,Crimson,1946.0,Gas,16.0,others,4,81757 KM,12,7213
+823,Chevrolet,Cruze,2018,WOOW Sedan,1.0,Pearl White,781.0,Gas,0.0,auto,1.4 Turbo,15333 km,8,16935
+851,Subaru,Forester,2011,jeep,1.0,Charcoal,10862.0,Gas,4.0,others,0,118500 km,94,14113
+868,Toyota,CAMRY,2019,Sedan2,0.0,Jet Black,607.0,Electric Hybrid,4.0,auto,2.5,39552 km,12,251
+883,Lexus,I have the fastest model ever.. yes you got it right it's GX 470,2008,JEEP,0.0,Jet Black,2455.0,Gas,8.0,auto,4.7,218126 km,0,282
+909,Kia,I own Sportage.,2120,sedan,0.0,Metallic,-8727.0,Gas,4.0,auto,2.4,2741,12,12074
+977,Lexus,I own GX 470.,2013,Jeep3,4.0,Jet Black,1360.0,Gas,8.0,auto,0,202651 KM,0,6272
+978,Hyundai,my model which is Elantra is the best,2011,Sedan1,2.0,Metallic,-9417.0,Gas,4.0,auto,1.6,132742 km,4,19121
+979,Ssangyong,I own Actyon.,2016,JEEP,0.0,Pearl White,730.0,Dies,14.0,auto,1.6,33261  kilo,4,43576
+995,Toyota,CHR,2018,JEEP,2.0,Pearl White,1079.0,Gas,4.0,R,2,38712 KM,12,9722
+1022,Kia,Optima,2012,sedan,2.0,Pearl White,642.0,other,4.0,auto,2,95000  kilo,10,70
+1034,Toyota,CAMRY,2014,sedan,4.0,Pearl White,394.0,Electric Hybrid,4.0,auto,2.5,109798 KM,12,5488
+1122,Ssangyong,I own REXTON.,1910,jeep,3.0,Jet Black,1099.0,Dies,14.0,auto,2.7,151949 km,4,24029
+1124,Honda,I own FIT.,2117,universal,0.0,Jet Black,382.0,Electric Hybrid,4.0,auto,1.5,29220 KM,4,41867
+1167,Mercedes-Benz,I have the fastest model ever.. yes you got it right it's CLS 550,2012,SEDAN,3.0,Jet Black,11363.0,Gas,8.0,AUTO,4.6,0 km,12,549
+1190,Toyota,my model which is Prius is the best,2013,Hatchback3,4.0,Sapphire Blue,10585.0,Electric Hybrid,4.0,auto,1.8,281600  kilo,8,10820
+1227,Toyota,my model which is Highlander is the best,2012,jeep,8.0,Charcoal,1058.0,Gas,16.0,others,3.5,285186  kilo,1012,9565
+1276,Lexus,GX 460,2017,Jeep,0.0,Pearl White,2225.0,Gas,8.0,others,0,69918 km,0,470
+1286,Hyundai,H1,2014,Minivan,2.0,Metallic,10777.0,Dies,4.0,R,2.5,146216 KM,4,30750
+1374,Toyota,Camry,2011,SEDAN,5.0,Charcoal,862.0,Electric Hybrid,4.0,auto,2.5,123345  kilo,12,12231
+1388,Toyota,my model which is Prius is the best,2012,hatchback,2.0,Charcoal,586.0,Electric Hybrid,4.0,AUTO,1.8,160000  kilo,16,18503
+1403,Ford,my model which is Fiesta is the best,2013,hatchback,2.0,Jet Black,557.0,Gas,0.0,auto,1.7,72000 km,0,12544
+1438,BMW,320,2014,sedan,3.0,Jet Black,639.0,Gas,4.0,gear,2.0 Turbo,59000 km,12,23521
+1491,Ford,my model which is Escape is the best,2010,jeep,8.0,Charcoal,1024.0,Electric Hybrid,4.0,auto,2.5,TOTAL 174926 km,0,862
+1530,Hyundai,I have the fastest model ever.. yes you got it right it's Santa FE,2011,JEEP,3.0,Pearl White,707.0,Dies,14.0,auto,2,72366  kilo,4,13172
+1596,Hyundai,H1,2009,minivan,0.0,Tangerine,-8815.0,Dies,4.0,AUTO,2.5,51273  kilo,4,21492
+1646,nissan,I have the fastest model ever.. yes you got it right it's March,3014,HATCHBACK,1.0,Metallic,418.0,Gas,4.0,others,1.2,101537 KM,4,5849
+1652,Toyota,Prius,2010,Hatchback,-3.0,Pearl White,761.0,Electric Hybrid,4.0,others,1.8,200000,12,9408
+1694,Toyota,CHR,2018,JEEP,3.0,Crimson,1079.0,Gas,4.0,auto,2,18754  kilometer,12,6272
+1713,Subaru,XV,2114,Sedan0,-3.0,Pearl White,333.0,Electric Hybrid,4.0,gear,2,270472 km,0,15681
+1731,Ssangyong,my model which is REXTON is the best,2015,WOOW Jeep,0.0,Jet Black,765.0,Dies,4.0,auto,2,110000 km,4,42667
+1774,Toyota,HIGHLANDER,2010,SEDAN,0.0,Metallic,1324.0,Electric Hybrid,6.0,auto,3.3,345405  kilo,12,5645
+1784,Toyota,Camry,3010,Sedan0,2.0,Jet Black,-8976.0,Gas,4.0,gear,2.5,152000,8,12544
+1821,Toyota,Prius,2013,hatchback,0.0,Pearl White,585.0,Electric Hybrid,4.0,auto,1.8,130000  kilometer,12,15367
+1824,Ford,FUSION,2011,Sedan,5.0,Metallic,862.0,Electric Hybrid,0.0,others,0,49669  kilo,0,12544
+1834,Jaguar,I have the fastest model ever.. yes you got it right it's F-type,2015,Jeep,2.0,Crimson,1104.0,Gas,6.0,others,3,24984 KM,12,78
+1959,Chevrolet,I own Volt.,2012,Jeep,3.0,Crimson,475.0,Electric Hybrid,4.0,auto,0,188419  kilo,0,627
+1973,Subaru,I have the fastest model ever.. yes you got it right it's XV,2015,WOOW Jeep,7.0,Jet Black,765.0,Gas,4.0,auto,2,TOTAL 250005 km,0,19444
+2025,Hyundai,H1,2016,minivan,3.0,Metallic,1091.0,Dies,4.0,gear,2.5,104697  kilo,4,41886
+2047,Toyota,I have the fastest model ever.. yes you got it right it's Highlander,2010,jeep,-3.0,Sapphire Blue,11324.0,Electric Hybrid,6.0,others,3.3,300366  kilo,12,14269
+2101,Mercedes-Benz,my model which is GLE 350 is the best,2016,Jeep,1.0,Charcoal,11292.0,Gas,6.0,auto,3,70450 km,10,862
+2106,Toyota,PRIUS,1912,HATCHBACK,1.0,Charcoal,586.0,Electric Hybrid,4.0,AUTO,1.8,101000 KM,12,19757
+2107,Lexus,I have the fastest model ever.. yes you got it right it's LS 460,2009,Sedan,5.0,Metallic,2108.0,Gas,14.0,auto,4.6,217614,4,21608
+2141,Audi,A4,2014,sedan,2.0,Charcoal,639.0,Gas,4.0,auto,2,42395  kilo,0,1254
+2142,Lexus,LS 460,2010,Sedan,2.0,Metallic,1811.0,Gas,14.0,AUTO,4.6,224500 km,4,26425
+2159,Toyota,I own Camry.,2015,sedan,3.0,Jet Black,934.0,Gas,4.0,auto,2.5,0  kilo,12,2038
+2162,Hyundai,my model which is Elantra is the best,3014,sedan,0.0,Charcoal,528.0,Gas,0.0,auto,1.6,164649 km,104,15624
+2191,I love NISSAN,my model which is Juke is the best,2015,jeep,1.0,Crimson,-9371.0,Gas,4.0,gear,1.6 Turbo,113000 KM,8,25089
+2203,Toyota,my model which is Tacoma is the best,2013,JEEP,3.0,Pearl White,834.0,Gas,4.0,R,0,397915  kilo,12,27284
+2221,Audi,A4,2011,sedan,4.0,Charcoal,-9293.0,Gas,4.0,auto,2.0 Turbo,190000  kilo,12,15681
+2271,Mercedes-Benz,my model which is E 350 is the best,2013,coupe,1.0,Metallic,1055.0,Dies,6.0,auto,3.5,0  kilo,12,627
+2312,Fiat,500L LONG,2012,WOOW Coupe,2.0,Jet Black,-9525.0,Gas,4.0,others,1.4,83545  kilo,12,10036
+2366,Toyota,my model which is Camry is the best,2012,sedan,0.0,Charcoal,781.0,Electric Hybrid,4.0,AUTO,2.5,314373  kilometer,12,392
+2372,Mazda,Mazda 6 TOURING,2017,WOOW Sedan,2.0,Jet Black,11249.0,Gas,4.0,AUTO,2.5,31694 KM,10,26971
+2424,Hyundai,I own Sonata.,2015,sedan,3.0,Metallic,765.0,other,4.0,R,2,30258 KM,4,13799
+2437,Hyundai,Sonata,2016,sedan,4.0,Metallic,10891.0,other,4.0,others,2,219432  kilometer,4,15681
+2439,Honda,I have the fastest model ever.. yes you got it right it's Cr-v,1911,JEEP,6.0,Chocolate,831.0,Gas,4.0,AUTO,2.4,116000  kilo,12,21500
+2451,Hyundai,my model which is Sonata is the best,2116,Sedan,5.0,Tangerine,891.0,other,4.0,auto,2,596900,4,5645
+2455,Mercedes-Benz,C 36 AMG,1995,sedan,1.0,Metallic,2971.0,Gas,6.0,auto,3.6,150000 KM,1002,17249
+2459,Ssangyong,I have the fastest model ever.. yes you got it right it's Actyon,2017,JEEP,3.0,Metallic,831.0,Dies,4.0,R,0,92627 km,4,41811
+2483,Ssangyong,I have the fastest model ever.. yes you got it right it's Korando,2012,Pickup0,3.0,Pearl White,642.0,Dies,4.0,auto,0,TOTAL 201897 km,4,21940
+2508,Chevrolet,my model which is Volt is the best,2014,HATCHBACK,4.0,Jet Black,259.0,Electric Hybrid,4.0,auto,1.4,110958  kilometer,0,220
+2512,Hyundai,I have the fastest model ever.. yes you got it right it's Sonata,2015,sedan,6.0,Jet Black,441.0,Electric Hybrid,14.0,R,2.4,261928 KM,100,94
+2544,Chevrolet,my model which is Malibu is the best,3016,sedan,2.0,Pearl White,891.0,Gas,4.0,auto,2,106642  kilo,4,34419
+2548,Lexus,RX 450,3010,jeep,0.0,Metallic,1399.0,Electric Hybrid,6.0,others,3.5,TOTAL 311949 km,12,282
+2608,Toyota,my model which is Aqua is the best,3013,hatchback,3.0,Charcoal,502.0,Gas,4.0,auto,1.5,69000 km,4,18117
+2662,Toyota,my model which is Prius C is the best,2012,HATCHBACK,2.0,Crimson,503.0,Electric Hybrid,4.0,auto,1.5,107000  kilometer,12,16935
+2704,Mazda,CX-9,3012,sedan,1.0,Jet Black,11113.0,Gas,6.0,auto,3.7,291840 km,12,31
+2764,Honda,I have the fastest model ever.. yes you got it right it's Civic,2015,WOOW Sedan,4.0,Sapphire Blue,308.0,Electric Hybrid,4.0,gear,1.5,49272 km,0,4861
+2769,Kia,my model which is Optima is the best,2012,SEDAN,0.0,Jet Black,10753.0,Electric Hybrid,4.0,R,0,100000 KM,8,20071
+2814,Hyundai,Elantra,2017,sedan,3.0,Pearl White,10831.0,other,14.0,others,1.6,110000 KM,1004,23678
+2852,Lexus,GX 470,2011,sedan,1.0,Pearl White,1514.0,Gas,8.0,others,0,202048  kilo,0,392
+2884,Toyota,I have the fastest model ever.. yes you got it right it's Camry,2016,sedan,2.0,Sapphire Blue,1091.0,Gas,4.0,others,2.5,114389,12,1098
+2974,BMW,I have the fastest model ever.. yes you got it right it's X5,2012,JEEP,4.0,Charcoal,919.0,Dies,6.0,others,3,296395 KM,0,157
+2998,Lexus,RX 400,2008,WOOW Jeep,0.0,Metallic,11750.0,Electric Hybrid,0.0,auto,3.3,TOTAL 224629 km,12,8154
+3007,Lexus,my model which is RX 350 is the best,2011,jeep,2.0,Jet Black,1172.0,Gas,12.0,auto,0,900000  kilo,12,27911
+3017,Chevrolet,my model which is Volt is the best,2017,hatchback,3.0,Charcoal,382.0,Electric Hybrid,14.0,auto,0,125358 km,0,188
+3094,Mercedes-Benz,my model which is GL 450 is the best,2013,JEEP,0.0,Jet Black,1360.0,Gas,8.0,R,4.6,230397  kilometer,12,2274
+3138,Hyundai,my model which is H1 is the best,2008,MINIVAN,3.0,Metallic,1347.0,Dies,4.0,auto,2.5,134955,4,24860
+3235,Toyota,my model which is RAV 4 is the best,2016,jeep,3.0,Sapphire Blue,518.0,Electric Hybrid,4.0,R,2.5,74053 km,88,549
+3241,Hyundai,my model which is Tucson is the best,3016,WOOW Jeep,3.0,Pearl White,891.0,Dies,4.0,R,0,99821  kilometer,4,35902
+3300,Ford,Fusion,2015,SEDAN,4.0,Jet Black,934.0,Gas,0.0,others,2.5,90000,8,19444
+3305,Mercedes-Benz,I own E 350.,2011,Sedan1,2.0,Metallic,-8828.0,Dies,6.0,auto,3.5,119379  kilo,12,16621
+3321,Toyota,Prius,2010,sedan,0.0,Charcoal,761.0,Electric Hybrid,0.0,auto,1.8,368000 km,111,13172
+3376,Toyota,CAMRY,2013,SEDAN,5.0,Metallic,779.0,Gas,4.0,auto,2.5,78670 KM,12,392
+3443,Toyota,I own RAV 4.,2014,jeep,6.0,Pearl White,777.0,Gas,4.0,others,2.5,168661 KM,12,392
+3509,nissan,Juke,2012,JEEP,0.0,Jet Black,531.0,Gas,14.0,others,1.6 Turbo,99000  kilo,110,17249
+3690,Hyundai,Sonata,2014,sedan,0.0,Metallic,639.0,other,0.0,others,2,268046 km,4,10036
+3727,Honda,FIT,2012,UNIVERSAL,1.0,Charcoal,1111.0,Electric Hybrid,4.0,others,1.3,98000  kilo,1002,9000
+3728,Hyundai,Genesis,2011,coupe,2.0,Charcoal,707.0,Gas,0.0,auto,2,117492  kilo,4,15245
+3783,Hyundai,I own Tucson.,2011,Jeep,0.0,Metallic,-9293.0,Dies,4.0,auto,2,161345 km,4,21652
+3842,BMW,my model which is X5 is the best,1911,WOOW Jeep,4.0,Chocolate,1018.0,Dies,6.0,auto,3,213195 KM,0,392
+3853,Toyota,I own Camry.,2019,sedan,6.0,Jet Black,10607.0,Electric Hybrid,4.0,auto,2.5,9626,12,3450
+3859,Toyota,Aqua,2014,Hatchback4,2.0,Crimson,501.0,Gas,4.0,R,1.5,TOTAL 157988 km,4,13764
+3885,Hyundai,I have the fastest model ever.. yes you got it right it's Elantra,3014,HATCHBACK,4.0,Metallic,639.0,Gas,4.0,others,2,100037  kilometer,12,941
+3896,Mercedes-Benz,I own ML 350.,2011,Jeep,1.0,Pearl White,1172.0,Dies,6.0,auto,3.5,186542 km,12,2038
+3910,Toyota,I own Camry.,2012,SEDAN,2.0,Pearl White,781.0,Electric Hybrid,4.0,others,2.5,156518  kilo,12,3607
+3966,Toyota,PRIUS,2013,hatchback,6.0,Metallic,585.0,Electric Hybrid,4.0,auto,1.8,492642 km,12,5175
+3981,Toyota,Camry,2017,sedan,-1.0,Jet Black,1249.0,Gas,4.0,others,2.5,32000 km,10,32929
+4023,Audi,100,2016,JEEP,0.0,Jet Black,1292.0,Gas,6.0,R,3,TOTAL 70782 km,1012,25089
+4065,Chevrolet,I have the fastest model ever.. yes you got it right it's Cruze,2009,Sedan0,3.0,Jet Black,790.0,Gas,4.0,auto,1.6,38413 KM,4,6595
+4122,Toyota,I have the fastest model ever.. yes you got it right it's Camry,2019,Sedan0,0.0,Jet Black,1325.0,Gas,4.0,AUTO,2.5,35541  kilometer,12,549
+4130,Hyundai,I own Sonata.,2013,SEDAN,2.0,Sapphire Blue,751.0,Electric Hybrid,4.0,others,2.4,216208  kilo,0,1176
+4131,Ssangyong,I own Actyon.,2010,jeep,5.0,Metallic,836.0,Dies,4.0,auto,2,118133  kilometer,4,18826
+4236,Hyundai,I own Sonata.,2017,SEDAN,1.0,Crimson,1202.0,Gas,14.0,others,2.4,0 KM,0,18503
+4266,Hyundai,SANTA FE,2014,JEEP,1.0,Charcoal,-9361.0,Dies,4.0,gear,2,163472 KM,4,40983
+4310,Honda,I own FIT.,2017,WOOW Hatchback,3.0,Metallic,10784.0,Gas,4.0,auto,1.5,42642  kilometer,4,23659
+4325,Opel,I own Combo.,2011,goods wagon,5.0,Pearl White,490.0,Dies,4.0,gear,1.3 Turbo,95000 KM,4,9408
+4351,Hyundai,I own Elantra.,2011,sedan,6.0,Charcoal,583.0,Gas,4.0,auto,1.6,120000 KM,4,15612
+4354,Toyota,Tundra,2017,sedan,6.0,Pearl White,2225.0,Gas,8.0,auto,0,190875  kilo,12,6429
+4360,Honda,ODYSSEY,2011,minivan,4.0,Charcoal,1172.0,Gas,6.0,others,3.5,86000  kilometer,8,23207
+4448,NISSAN is the best,MARCH,2011,hatchback,3.0,Metallic,1148.0,Gas,4.0,AUTO,1.2,58000 KM,2,6700
+4464,Kia,my model which is Optima is the best,2012,sedan,0.0,Metallic,753.0,Gas,4.0,auto,2.4,178892 km,8,8154
+4508,Kia,Optima,2013,sedan,6.0,Gold,-9249.0,Gas,0.0,others,2.4,TOTAL 84000 km,16,13172
+4519,Jeep,RENEGADE,2017,JEEP,5.0,Crimson,1202.0,Gas,4.0,auto,2.4,TOTAL 78000 km,16,29793
+4528,Opel,I have the fastest model ever.. yes you got it right it's Astra,2009,hatchback,2.0,Crimson,702.0,Gas,4.0,manual,1.4,140000  kilo,6,12231
+4546,BMW,I have the fastest model ever.. yes you got it right it's 335,2013,SEDAN,1.0,Sapphire Blue,10917.0,Gas,0.0,auto,3,136291  kilo,12,706
+4592,Toyota,TACOMA,2017,WOOW Sedan,6.0,Metallic,1714.0,Gas,6.0,auto,3.5,174827  kilo,12,3763
+4616,Toyota,I have the fastest model ever.. yes you got it right it's Tacoma,2013,Jeep,2.0,Pearl White,834.0,Gas,4.0,others,2.7,265558 KM,12,14583
+4709,Mercedes-Benz,my model which is E 350 is the best,2014,sedan,3.0,Charcoal,1053.0,Gas,6.0,auto,3.5,146395 km,12,1882
+4720,Dodge,Caliber,2010,HATCHBACK,2.0,Metallic,836.0,Gas,4.0,auto,2,TOTAL 114000 km,8,13172
+4726,Toyota,I have the fastest model ever.. yes you got it right it's Prius,2011,sedan,2.0,Pearl White,552.0,Electric Hybrid,4.0,auto,1.5,250000  kilometer,10,16621
+4735,Ssangyong,Actyon,2016,jeep,0.0,Pearl White,-9270.0,Gas,0.0,gear,1.6,51787  kilo,4,39201
+4748,Chevrolet,CRUZE,2014,sedan,4.0,Metallic,473.0,Gas,4.0,auto,0,70222 km,10,15053
+4781,Toyota,VENZA,2013,JEEP,4.0,Pearl White,834.0,Gas,4.0,auto,2.7,186349 km,12,3450
+4809,Toyota,my model which is Tundra is the best,2114,jeep,4.0,Jet Black,1659.0,Gas,8.0,R,5.7,101928 KM,12,188
+4862,Hyundai,my model which is Tucson is the best,2010,JEEP,4.0,Metallic,836.0,Dies,4.0,auto,2,102138 KM,4,27065
+4867,Hyundai,I own Sonata.,2013,SEDAN,7.0,Jet Black,640.0,Gas,4.0,auto,2,52668 km,4,12858
+4907,Hyundai,SONATA,2010,Sedan4,5.0,Jet Black,836.0,other,4.0,auto,2,116346  kilo,4,7056
+4942,Hyundai,H1,2009,minivan,2.0,Metallic,11185.0,Dies,4.0,auto,2.5,176878,4,15053
+4986,Mercedes-Benz,I have the fastest model ever.. yes you got it right it's ML 350,2111,JEEP,2.0,Jet Black,1172.0,Dies,6.0,AUTO,0,220323 km,12,157
+5121,BMW,528,2013,sedan,1.0,Charcoal,-9360.0,Gas,14.0,gear,2,140944 km,12,706
+5132,Ssangyong,REXTON,2009,jeep,2.0,Metallic,-8727.0,Dies,4.0,AUTO,2.7,163240 km,4,20532
+5137,Volkswagen,Vento,1996,sedan,2.0,Jet Black,1688.0,Gas,4.0,others,2,203658 km,2,3000
+5148,BMW,X5,2015,jeep,0.0,Jet Black,1104.0,Dies,6.0,auto,3,201056  kilo,0,3607
+5159,Kia,my model which is Optima is the best,2012,WOOW Sedan,1.0,Metallic,641.0,Gas,4.0,auto,0,345673  kilometer,4,6743
+5227,Hyundai,Sonata,2011,Sedan,3.0,Jet Black,707.0,Gas,4.0,R,2,129085 km,4,17158
+5292,NISSAN,I have the fastest model ever.. yes you got it right it's Kicks,2018,jeep,1.0,Charcoal,-9120.0,Gas,4.0,others,1.6,8000 KM,0,24775
+5317,Toyota,TUNDRA,2014,Sedan4,2.0,Pearl White,11659.0,Gas,8.0,others,5.7,0  kilo,12,3293
+5335,GMC,TERRAIN,1919,sedan,2.0,Jet Black,11077.0,Gas,4.0,R,2,35898  kilo,12,14269
+5343,Hyundai,Tucson,2014,jeep,1.0,Pearl White,639.0,Dies,4.0,auto,2,120272 km,4,28617
+5366,Volkswagen,I own Tiguan.,2012,JEEP,1.0,Royal Purple,642.0,Gas,4.0,others,2.0 Turbo,48379,14,21326
+5481,VAZ,I have the fastest model ever.. yes you got it right it's 2121 (Niva),2014,Jeep3,2.0,Emerald Green,556.0,Gas,14.0,gear,1.7,35000  kilometer,98,18503
+5537,Mercedes-Benz,I have the fastest model ever.. yes you got it right it's E 550,2008,Sedan,3.0,Jet Black,2858.0,Gas,0.0,AUTO,5.5,162000 km,12,26657
+5570,Mercedes-Benz,E 300,3017,Sedan1,2.0,Jet Black,1017.0,Gas,4.0,auto,2,50930  kilo,12,22580
+5590,Ford,Fusion,2012,Sedan3,4.0,Charcoal,781.0,Gas,4.0,auto,0,109536 km,12,1176
+5642,BMW,535,2011,Sedan,3.0,Metallic,1018.0,Gas,16.0,R,3,128086 km,0,17249
+5643,Toyota,Prius,2014,HATCHBACK,2.0,Charcoal,271.0,Electric Hybrid,4.0,others,1.5,54845  kilo,0,15681
+5655,Subaru,I have the fastest model ever.. yes you got it right it's Forester,2115,jeep,0.0,Pearl White,934.0,Gas,4.0,AUTO,0,90392,0,6899
+5660,Ford,I own Fusion.,2013,sedan,3.0,Jet Black,640.0,Gas,6.0,auto,2,89000  kilo,12,18503
+5668,Volkswagen,I have the fastest model ever.. yes you got it right it's Tiguan,2010,Jeep,2.0,Pearl White,10836.0,Gas,4.0,auto,2,TOTAL 185496 km,88,549
+5676,Volkswagen,TIGUAN,1912,jeep,3.0,Jet Black,642.0,Gas,4.0,others,2.0 Turbo,194603 KM,12,18817
+5691,Porsche,PANAMERA,2015,sedan,1.0,Charcoal,10530.0,Electric Hybrid,0.0,others,3,0 km,12,26030
+5698,Ssangyong,Actyon,2011,SEDAN,3.0,Metallic,707.0,Dies,4.0,auto,2,194314 km,4,16160
+5754,Chevrolet,Malibu,2013,sedan,1.0,Metallic,779.0,Gas,0.0,others,2.5,0 KM,12,1960
+5791,Mercedes-Benz,C 300,2017,COUPE,3.0,Jet Black,11017.0,Gas,4.0,others,0,63987 km,12,1646
+5833,Toyota,PRIUS,2009,sedan,2.0,Pearl White,-9122.0,Electric Hybrid,4.0,others,1.8,195000  kilo,8,15053
+5853,Hyundai,my model which is Sonata is the best,2016,SEDAN,7.0,Jet Black,1051.0,Gas,4.0,gear,0,72000 KM,12,20385
+5875,Hyundai,Sonata,2016,sedan,3.0,Metallic,-9109.0,other,4.0,others,2,258906,104,11290
+5890,Toyota,my model which is Camry is the best,2013,sedan,-1.0,Pearl White,779.0,Gas,6.0,auto,2.5,10000  kilo,15,20385
+5902,Chevrolet,VOLT,2014,Hatchback1,2.0,Chocolate,-9741.0,Electric Hybrid,4.0,auto,1.4,131893  kilo,0,314
+5919,Hyundai,TUCSON,2012,JEEP,2.0,Jet Black,753.0,Gas,6.0,auto,2.4,159000,10,25089
+5925,BMW,X5,2014,Jeep,-1.0,Sapphire Blue,915.0,Dies,6.0,auto,3,141384  kilo,100,7056
+5927,Toyota,Highlander,2010,sedan,4.0,Sapphire Blue,1324.0,Electric Hybrid,6.0,others,3.3,316912 km,12,125
+5928,Honda,FIT,2011,HATCHBACK,1.0,Sapphire Blue,1236.0,Electric Hybrid,4.0,others,1.3,116048,4,8500
+5942,Ssangyong,I have the fastest model ever.. yes you got it right it's Actyon,2011,Jeep,2.0,Pearl White,10707.0,Dies,4.0,auto,2,TOTAL 72080 km,4,21473
+5949,Hyundai,I own Tucson.,2016,WOOW Jeep,1.0,Pearl White,-9109.0,Dies,4.0,auto,2,47090  kilo,96,36564
+5967,Toyota,my model which is Camry is the best,2014,Sedan,5.0,Pearl White,-9606.0,Electric Hybrid,4.0,auto,2.5,130478 km,12,862
+5976,Daewoo,my model which is Lacetti is the best,2009,sedan,2.0,Jet Black,790.0,Gas,4.0,auto,1.6,107125,4,5802
+5977,Ford,I have the fastest model ever.. yes you got it right it's Fusion,2010,sedan,3.0,Pearl White,1211.0,Gas,6.0,auto,3,150000  kilo,8,2822
+5992,Chevrolet,I have the fastest model ever.. yes you got it right it's Orlando,2012,jeep,1.0,Charcoal,642.0,Dies,4.0,others,0,152595 KM,4,17449
+6046,Chevrolet,Cruze,2015,sedan,2.0,Pearl White,562.0,Gas,4.0,others,1.4 Turbo,88000  kilo,12,19444
+6073,Toyota,COROLLA,2020,Sedan3,4.0,Sapphire Blue,460.0,Electric Hybrid,4.0,auto,1.8,7467  kilometer,12,6899
+6096,Hyundai,I30,2008,SEDAN,1.0,Metallic,893.0,Gas,4.0,auto,1.6,136935  kilo,4,10976
+6126,Honda,FIT,2013,Hatchback4,8.0,Sapphire Blue,447.0,Electric Hybrid,4.0,auto,1.3,151715 km,4,5134
+6153,Hyundai,Sonata,2015,SEDAN,2.0,Tangerine,765.0,other,4.0,auto,2,547405  kilo,4,12544
+6175,Chevrolet,my model which is Lacetti is the best,2009,sedan,5.0,Charcoal,790.0,Gas,4.0,gear,0,TOTAL 96959 km,4,10092
+6218,Toyota,my model which is Camry is the best,2017,Sedan2,6.0,Sapphire Blue,1249.0,Gas,14.0,R,2.5,74029 km,12,14583
+6226,Hyundai,Genesis,2110,sedan,4.0,Metallic,1324.0,Gas,0.0,AUTO,3.3,TOTAL 235729 km,96,17484
+6276,nissan,I own Pathfinder.,2006,jeep,6.0,Metallic,1829.0,Dies,4.0,manual,2.5 Turbo,TOTAL 160000 km,8,21326
+6299,BMW,X5,2011,Sedan,6.0,Jet Black,1451.0,Gas,8.0,others,0,TOTAL 139363 km,100,157
+6324,Mercedes-Benz,my model which is ML 350 is the best,1912,JEEP,1.0,Pearl White,919.0,Dies,6.0,auto,3,180251,12,3136
+6332,Toyota,I have the fastest model ever.. yes you got it right it's Camry,2014,Sedan1,2.0,Pearl White,-9223.0,Gas,0.0,gear,2.5,92891 KM,1012,1646
+6404,Toyota,CAMRY,2014,sedan,4.0,Charcoal,-9606.0,Electric Hybrid,4.0,others,2.5,115312  kilometer,12,706
+6452,BMW,I have the fastest model ever.. yes you got it right it's X1 4X4,2012,JEEP,2.0,Sapphire Blue,642.0,Gas,4.0,gear,2.0 Turbo,102400 km,12,29479
+6488,Toyota,Prius,2010,sedan,0.0,Charcoal,761.0,Gas,4.0,auto,1.8 Turbo,225600 km,8,14426
+6546,Lexus,GX 470,2008,jeep,4.0,Pearl White,12455.0,Gas,8.0,others,4.7,TOTAL 280354 km,0,862
+6572,Chevrolet,I own Cruze.,2016,SEDAN,2.0,Pearl White,650.0,Gas,14.0,others,1.4 Turbo,52000 KM,12,18817
+6646,Lexus,IS 250,2010,SEDAN,0.0,Metallic,1024.0,Gas,4.0,auto,2.5,149218 KM,4,20610
+6674,Hyundai,I own Elantra.,2013,SEDAN,1.0,Jet Black,10585.0,Gas,4.0,auto,1.8,102675  kilometer,0,15681
+6675,Mercedes-Benz,E 300,2017,SEDAN,5.0,Jet Black,-8983.0,Gas,4.0,auto,2,TOTAL 26802 km,1012,314
+6676,Ford,Fusion,1916,sedan,4.0,Jet Black,431.0,Electric Hybrid,4.0,gear,2,194974  kilometer,0,8781
+6731,Chevrolet,Orlando,3013,jeep,1.0,Charcoal,640.0,Dies,4.0,auto,2,TOTAL 143894 km,4,21181
+6735,Ford,I own Escape.,2011,jeep,5.0,Emerald Green,862.0,Electric Hybrid,4.0,others,2.5,130306,0,314
+6860,BMW,my model which is 328 is the best,2013,sedan,3.0,Pearl White,862.0,Gas,4.0,AUTO,2.8 Turbo,108800  kilometer,4,31361
+6919,nissan,JUKE,2113,jeep,2.0,Jet Black,530.0,Gas,4.0,auto,1.6,220861 km,12,14800
+6947,Ford,I own Transit Connect.,2011,goods wagon,5.0,Metallic,645.0,Dies,4.0,others,1.8 Turbo,219123,8,9408
+6959,Subaru,Crosstrek,2019,sedan,1.0,Sapphire Blue,1077.0,Gas,4.0,R,0,6384 KM,12,7213
+6967,Toyota,I own Aqua.,2013,hatchback,1.0,Pearl White,1267.0,Electric Hybrid,0.0,gear,1.5,129000  kilo,4,10349
+6982,Toyota,my model which is Prius is the best,2008,hatchback,1.0,Gold,843.0,Electric Hybrid,4.0,AUTO,1.5,204000  kilo,8,7840
+7038,Ford,Escape,2013,jeep,2.0,Ruby Red,640.0,Gas,4.0,others,2.0 Turbo,TOTAL 111000 km,10,20385
+7039,Lexus,I have the fastest model ever.. yes you got it right it's GX 460,2010,jeep,2.0,Metallic,-8189.0,Gas,0.0,auto,4.6,275240  kilo,0,15681
+7045,Ford,my model which is Fusion is the best,2017,Sedan0,3.0,Gold,784.0,Gas,4.0,others,1.5,77368  kilometer,12,3136
+7052,Hyundai,H1,2010,MINIVAN,4.0,Lemon Yellow,1024.0,Dies,4.0,others,2.5,TOTAL 134990 km,4,12522
+7057,NISSAN,my model which is Kicks is the best,2018,Jeep0,0.0,Charcoal,-9120.0,Gas,4.0,auto,1.6,4363 KM,0,25089
+7061,Toyota,Camry XLE,2012,Sedan1,0.0,Jet Black,-9219.0,Electric Hybrid,0.0,auto,2.5,177000  kilometer,10,16621
+7075,Hyundai,I have the fastest model ever.. yes you got it right it's Tucson,2016,WOOW Jeep,4.0,Jet Black,10770.0,Dies,4.0,R,1.7,137445,4,39891
+7096,Toyota,I own Tundra.,2014,WOOW Jeep,2.0,Jet Black,11659.0,Gas,18.0,others,5.7,TOTAL 101928 km,12,188
+7106,Chevrolet,I have the fastest model ever.. yes you got it right it's Cruze,2014,SEDAN,0.0,Pearl White,473.0,Gas,4.0,auto,1.4 Turbo,91200  kilo,12,18503
+7239,Mercedes-Benz,ML 350,2011,Jeep,6.0,Charcoal,11018.0,Dies,6.0,gear,3.0 Turbo,111000  kilo,12,37633
+7334,BMW,I have the fastest model ever.. yes you got it right it's X5,2011,jeep,2.0,Chocolate,1018.0,Dies,6.0,auto,3,213195  kilo,12,6272
+7355,Lexus,ES 300,2011,sedan,3.0,Metallic,11172.0,Gas,4.0,auto,3.5,TOTAL 53467 km,4,21639
+7413,Toyota,my model which is Highlander is the best,2014,Sedan1,4.0,Jet Black,517.0,Electric Hybrid,6.0,auto,0,166560 km,12,39201
+7421,Hyundai,Elantra,2018,SEDAN,2.0,Charcoal,1079.0,Gas,4.0,auto,2,47200  kilometer,12,3293
+7443,Hyundai,TUCSON,3012,Jeep,1.0,Charcoal,642.0,Dies,14.0,others,2,182000  kilo,4,24123
+7449,Hyundai,ELANTRA,2013,SEDAN,5.0,Jet Black,585.0,Gas,4.0,auto,1.8,184874 km,8,15681
+7550,Chevrolet,Malibu,2013,SEDAN,3.0,Sapphire Blue,640.0,Gas,4.0,others,2,114107 KM,12,862
+7570,Fiat,500,1917,HATCHBACK,0.0,Charcoal,738.0,Gas,0.0,AUTO,1.4,47208,12,188
+7578,Hyundai,H1,2016,minivan,1.0,Metallic,1091.0,Dies,4.0,R,2.5,112193  kilo,4,36068
+7689,Hyundai,Santa FE,2015,jeep,4.0,Pearl White,833.0,Dies,0.0,others,2.2,172803  kilometer,4,38229
+7703,Mercedes-Benz,E 350,2014,sedan,1.0,Metallic,1053.0,Dies,6.0,AUTO,3.5,149486 km,88,314
+7711,Toyota,I have the fastest model ever.. yes you got it right it's Tundra,2014,WOOW Jeep,3.0,Jet Black,1659.0,Gas,18.0,auto,5.7,101928 KM,12,188
+7750,Toyota,CAMRY,2014,sedan,4.0,Charcoal,777.0,Gas,4.0,AUTO,2.5,107000 km,12,22000
+7761,Hyundai,Santa FE,2017,Jeep,3.0,Pearl White,-8983.0,Dies,4.0,gear,0,27453  kilo,4,42337
+7794,Hyundai,my model which is Elantra is the best,2011,sedan,2.0,Pearl White,583.0,Gas,4.0,auto,1.6,173678 km,96,18826
+7797,Toyota,I have the fastest model ever.. yes you got it right it's Highlander,2012,JEEP,5.0,Charcoal,1058.0,Gas,6.0,R,3.5,285186  kilo,88,9565
+7827,Mercedes-Benz,my model which is GLA 250 is the best,2015,Jeep,-1.0,Jet Black,10765.0,Gas,0.0,auto,2,159928 km,0,12858
+7843,Dodge,Durango,1911,jeep,1.0,Emerald Green,1203.0,Gas,6.0,gear,3.6,TOTAL 344814 km,12,706
+7865,Hyundai,I have the fastest model ever.. yes you got it right it's Tucson,2010,Jeep,2.0,Charcoal,836.0,Dies,4.0,AUTO,2,173169 km,4,17923
+7907,Hyundai,SANTA FE,2013,JEEP,1.0,Jet Black,640.0,Dies,4.0,auto,0,90220  kilo,4,46490
+7949,BMW,I own 435.,2014,coupe,1.0,Charcoal,10915.0,Gas,6.0,R,3,90029 km,12,1176
+7976,Toyota,I have the fastest model ever.. yes you got it right it's Prius,2007,sedan,0.0,Metallic,988.0,Electric Hybrid,4.0,auto,1.5,107248  kilo,6,11133
+7977,Hyundai,Elantra,2018,Sedan0,3.0,Pearl White,880.0,other,4.0,auto,1.6,35643 km,104,36426
+7978,Toyota,I own Camry.,2018,SEDAN,5.0,Pearl White,-9391.0,Electric Hybrid,4.0,R,2.5,35058  kilo,1012,18817
+7986,Hyundai,ELANTRA,2013,sedan,2.0,Jet Black,585.0,Gas,4.0,R,0,157859 km,88,314
+7990,Honda,I have the fastest model ever.. yes you got it right it's Insight,2012,Hatchback,7.0,Metallic,10448.0,Electric Hybrid,4.0,auto,1.3,0 km,0,94
+8029,Toyota,I own Tacoma.,2114,jeep,3.0,Charcoal,832.0,Gas,4.0,AUTO,2.7,64994  kilo,12,3763
+8056,Lexus,CT 200H,1912,HATCHBACK,2.0,Pearl White,586.0,Electric Hybrid,4.0,auto,0,174106 km,0,1490
+8197,BMW,650,3015,coupe,3.0,Pearl White,1578.0,Gas,8.0,auto,4.4,92213 km,12,30734
+8214,Daewoo,my model which is Lacetti is the best,2009,SEDAN,6.0,Sapphire Blue,966.0,Dies,14.0,auto,0,39031 km,4,5865
+8254,Mercedes-Benz,I own ML 350.,2008,Jeep3,6.0,Metallic,1598.0,Dies,0.0,gear,3,213998  kilometer,12,282
+8328,Subaru,XV,2014,Jeep,6.0,Pearl White,-9667.0,Electric Hybrid,4.0,auto,2,131872 KM,12,12074
+8330,Toyota,CAMRY,2013,SEDAN,2.0,Pearl White,779.0,Electric Hybrid,4.0,gear,2.5,124912,12,3763
+8382,Toyota,CAMRY,2014,sedan,7.0,Charcoal,777.0,Gas,4.0,auto,2.5,107000 KM,12,12544
+8386,Honda,I own Elysion.,3007,minivan,5.0,Pearl White,4283.0,Gas,4.0,others,2.4,141000  kilo,2,10000
+8401,Hyundai,SONATA,2016,sedan,1.0,Metallic,891.0,other,4.0,auto,2,279787 km,4,11290
+8405,Lexus,GX 470,2011,SEDAN,4.0,Pearl White,1514.0,Gas,0.0,AUTO,4.6,202048 km,0,392
+8452,Hyundai,I own Sonata.,3016,Sedan,0.0,Metallic,891.0,other,4.0,others,0,261167,4,15681
+8483,BMW,X5,2011,jeep,4.0,Pearl White,1018.0,Dies,6.0,others,3,270326  kilometer,1012,1568
+8523,Toyota,I have the fastest model ever.. yes you got it right it's Prius,2010,HATCHBACK,5.0,Pearl White,10761.0,Electric Hybrid,0.0,gear,1.8,73402  kilo,12,706
+8555,Hyundai,SONATA,2013,Sedan,4.0,Pearl White,640.0,Gas,0.0,AUTO,2,206088 KM,4,14166
+8569,Ford,C-MAX,2012,HATCHBACK,0.0,Charcoal,-9358.0,Electric Hybrid,4.0,auto,2,TOTAL 208000 km,8,13000
+8570,Lexus,GX 460,2010,jeep,5.0,Jet Black,1811.0,Gas,8.0,R,4.6,TOTAL 260771 km,0,941
+8595,Hyundai,Elantra,2016,sedan,3.0,Metallic,730.0,other,4.0,auto,1.6,74909 km,4,27504
+8639,Hyundai,ELANTRA,2011,sedan,1.0,Jet Black,583.0,Gas,4.0,auto,1.6,106616,4,20005
+8669,Volkswagen,I have the fastest model ever.. yes you got it right it's Tiguan,2018,SEDAN,6.0,Jet Black,1079.0,Gas,4.0,others,2,70098,12,9565
+8694,Hyundai,Grandeur,2010,SEDAN,3.0,Metallic,1099.0,Gas,4.0,gear,2.7,93168 KM,4,6269
+8813,Daewoo,Lacetti,2009,SEDAN,6.0,Metallic,966.0,Dies,4.0,others,2,75644  kilo,96,5959
+8848,Toyota,I own Camry.,2012,sedan,6.0,Pearl White,781.0,Electric Hybrid,4.0,others,2.5,156518 km,12,3607
+8933,Toyota,my model which is Prius is the best,2013,sedan,3.0,Jet Black,585.0,Electric Hybrid,4.0,auto,1.8,123000  kilo,0,21482
+8949,BMW,X5,2014,jeep,0.0,Pearl White,915.0,Dies,6.0,others,3,110715 km,0,16621
+8992,BMW,my model which is 335 is the best,2112,sedan,1.0,Pearl White,919.0,Gas,6.0,AUTO,3,82990  kilometer,100,23521
+9063,Buick,I own Century.,2011,sedan,5.0,Metallic,1297.0,Gas,6.0,auto,0,198030 km,12,314
+9074,Hyundai,Sonata,2016,sedan,0.0,Pearl White,891.0,other,4.0,AUTO,2,227033,4,16308
+9189,Kia,SPORTAGE,2007,jeep,0.0,Jet Black,1282.0,Dies,0.0,auto,2,93568 KM,4,7213
+9198,Chevrolet,Cruze LT,2016,sedan,4.0,Pearl White,-9350.0,Gas,14.0,others,1.4 Turbo,29355 km,8,15524
+9270,Ssangyong,my model which is REXTON is the best,2013,jeep,3.0,Metallic,10640.0,Dies,4.0,gear,2,169027 km,4,29075
+9371,Hyundai,SONATA,2011,SEDAN,4.0,Charcoal,-9293.0,Gas,4.0,R,2,157224 KM,4,17305
+9409,Kia,I own Optima.,2012,Sedan4,1.0,Jet Black,753.0,Electric Hybrid,4.0,auto,2.4,0  kilometer,12,470
+9473,Hyundai,H1,3014,MINIVAN,6.0,Metallic,777.0,Dies,4.0,others,2.5,179918 km,4,26594
+9475,BMW,328,2015,Sedan4,2.0,Metallic,765.0,Gas,4.0,others,2,111166,12,1019
+9556,Mini,I own Countryman.,1913,Jeep3,3.0,Jet Black,530.0,Gas,4.0,MANUAL,1.6,132678 km,10,18033
+9569,Hyundai,I have the fastest model ever.. yes you got it right it's H1,3011,MINIVAN,6.0,Jet Black,862.0,Dies,4.0,others,2.5,TOTAL 69624 km,4,18654
+9586,Lexus,I own RX 450.,3016,Jeep,2.0,Metallic,10690.0,Electric Hybrid,6.0,AUTO,3.5,59858  kilo,12,11917
+9645,Ford,I own Fusion.,2016,sedan,2.0,Ruby Red,690.0,Gas,4.0,gear,1.5 Turbo,91200 km,8,21953
+9748,Hyundai,I have the fastest model ever.. yes you got it right it's Tucson,2016,Jeep2,3.0,Charcoal,770.0,Dies,4.0,auto,1.7,141000 km,4,28755
+9756,BMW,328,3011,sedan,0.0,Charcoal,1018.0,Gas,6.0,AUTO,3,107000 km,8,14426
+9758,nissan,I have the fastest model ever.. yes you got it right it's Altima,2019,WOOW Sedan,6.0,Charcoal,1325.0,Gas,4.0,auto,2.5,30296 km,12,21326
+9768,Hyundai,SANTA FE,2013,jeep,2.0,Charcoal,640.0,Dies,4.0,gear,2,146740 km,4,37125
+9772,Ford,FUSION,2013,Sedan0,-1.0,Pearl White,779.0,Gas,14.0,others,2.5,143632 KM,0,12858
+9773,Chevrolet,my model which is Cruze is the best,2014,SEDAN,5.0,Sapphire Blue,639.0,Dies,4.0,AUTO,2,123850  kilometer,4,14856
+9778,Chevrolet,my model which is Orlando is the best,2012,JEEP,1.0,Charcoal,642.0,Dies,4.0,gear,2,242409 km,4,13962
+9783,Toyota,my model which is Camry is the best,2014,SEDAN,3.0,Jet Black,394.0,Electric Hybrid,4.0,auto,2.5,398069,12,1098
+9800,Chevrolet,I have the fastest model ever.. yes you got it right it's Cruze,2011,SEDAN,4.0,Pearl White,645.0,Gas,4.0,auto,1.8,177309  kilo,4,11563
+9938,Honda,I have the fastest model ever.. yes you got it right it's FIT,2013,Hatchback,6.0,Pearl White,10502.0,Electric Hybrid,4.0,auto,1.5,87000 km,104,23082
+9963,Toyota,Highlander,2010,sedan,2.0,Emerald Green,1324.0,Electric Hybrid,6.0,auto,3.3,226198 KM,12,1725
+9981,Mercedes-Benz,E 350,3014,WOOW Sedan,1.0,Charcoal,11053.0,Dies,6.0,auto,3.5,132349  kilo,12,31047
+10115,Honda,FIT,2015,Hatchback,0.0,Jet Black,10595.0,Gas,4.0,auto,1.5,111649  kilo,4,24512
+10159,Hyundai,my model which is Elantra is the best,2011,WOOW Sedan,2.0,Pearl White,583.0,Gas,4.0,auto,1.6,124892  kilo,4,19384
+10198,Toyota,I have the fastest model ever.. yes you got it right it's Prius,2017,HATCHBACK,5.0,Pearl White,442.0,Electric Hybrid,4.0,gear,1.8,45488,12,16308
+10283,Chevrolet,my model which is Captiva is the best,2015,jeep,2.0,Charcoal,833.0,Dies,4.0,auto,2.2,TOTAL 70003 km,4,41400
+10297,Hyundai,my model which is Elantra GT is the best,2014,HATCHBACK,4.0,Sapphire Blue,639.0,Gas,4.0,auto,2,105000 km,7,19444
+10327,Chevrolet,VOLT,2011,Hatchback,4.0,Jet Black,521.0,Electric Hybrid,4.0,auto,1.4,288778 km,12,2666
+10332,Toyota,PRIUS V,2012,WOOW Hatchback,3.0,Pearl White,1505.0,Electric Hybrid,14.0,gear,1.8,51000 km,8,13500
+10394,Ford,Focus,2013,sedan,6.0,Jet Black,640.0,Gas,4.0,auto,0,116800  kilo,8,14113
+10412,Hyundai,I have the fastest model ever.. yes you got it right it's Sonata,2016,sedan,1.0,Tangerine,891.0,other,0.0,auto,2,478704  kilo,4,13172
+10446,BMW,328,2113,WOOW Sedan,1.0,Metallic,10640.0,Gas,4.0,R,2.0 Turbo,201360 km,6,21953
+10450,Hyundai,I own H1.,2014,minivan,2.0,Jet Black,777.0,Dies,4.0,auto,2.5,173490 km,4,23436
+10471,Citroen,Berlingo,2002,GOODS WAGON,0.0,Sapphire Blue,1599.0,Dies,4.0,gear,1.9 Turbo,190000  kilo,2,7840
+10496,BMW,I have the fastest model ever.. yes you got it right it's 328,2016,sedan,0.0,Charcoal,891.0,Gas,14.0,auto,2.0 Turbo,23000 km,12,46101
+10568,Volkswagen,I have the fastest model ever.. yes you got it right it's Golf GTI,2016,hatchback,3.0,Jet Black,10891.0,Gas,4.0,auto,2,113600  kilo,8,7527
+10575,Jeep,my model which is Compass is the best,2011,jeep,0.0,Pearl White,831.0,Gas,4.0,others,2.4,97277 km,4,27174
+10610,Hyundai,Elantra,2010,sedan,0.0,Pearl White,687.0,Gas,4.0,auto,1.6,128965 km,4,12585
+10636,Hyundai,H1,2016,minivan,3.0,Pearl White,1091.0,Dies,4.0,auto,2.5,117595,4,32578
+10650,Honda,my model which is Fred is the best,2012,MINIVAN,3.0,Metallic,11268.0,Gas,4.0,auto,1.5,145000  kilometer,4,10000
+10660,Hyundai,Elantra,1911,WOOW Sedan,6.0,Charcoal,583.0,Gas,14.0,auto,1.6,127983 km,4,19384
+10669,Hyundai,I have the fastest model ever.. yes you got it right it's H1,2012,Universal,0.0,Metallic,-9219.0,Dies,4.0,gear,2.5,216000 km,4,21395
+10705,Hyundai,H1,2014,minivan,5.0,Jet Black,777.0,Dies,4.0,auto,2.5,50877 KM,4,32772
+10720,Mercedes-Benz,E 350,2010,SEDAN,1.0,Jet Black,-8601.0,Dies,6.0,others,3.5,TOTAL 229904 km,12,470
+10753,Hyundai,I own Sonata.,2012,sedan,0.0,Jet Black,-9247.0,Electric Hybrid,4.0,R,2.4,93816 KM,0,282
+10762,BMW,I have the fastest model ever.. yes you got it right it's X5,2016,jeep,3.0,Charcoal,11292.0,Gas,6.0,auto,0,0  kilometer,12,25716
+10781,Toyota,I own Prius.,2110,HATCHBACK,1.0,Pearl White,761.0,Electric Hybrid,4.0,R,1.8,258909  kilo,12,1803
+10869,Toyota,I have the fastest model ever.. yes you got it right it's Camry,2013,sedan,4.0,Metallic,779.0,Electric Hybrid,14.0,auto,2.5,166720 KM,12,22580
+10885,Chevrolet,I own Cruze.,2009,SEDAN,2.0,Jet Black,789.0,Gas,4.0,auto,1.6,66444 km,4,6272
+10895,Toyota,TUNDRA,2014,SEDAN,2.0,Pearl White,-8341.0,Gas,0.0,AUTO,5.7,0 km,12,3293
+10954,Toyota,CAMRY,2014,SEDAN,4.0,Pearl White,394.0,Electric Hybrid,4.0,R,2.5,130478 KM,12,862
+10985,Toyota,I have the fastest model ever.. yes you got it right it's Camry,2014,Sedan4,5.0,Jet Black,777.0,Gas,4.0,auto,2.5,66000  kilometer,10,24462
+11012,Ford,I own Transit.,2105,WOOW Goods wagon,3.0,Pearl White,1673.0,Dies,14.0,manual,2.0 Turbo,170000  kilo,4,9252
+11048,Ssangyong,Actyon,2010,jeep,2.0,Metallic,836.0,Dies,4.0,auto,2,237003  kilo,4,15718
+11106,Mercedes-Benz,my model which is E 300 is the best,2017,Sedan3,2.0,Jet Black,-8983.0,Gas,4.0,R,2,50930  kilo,12,3450
+11125,Jeep,Wrangler sport,2016,Jeep3,5.0,Charcoal,-8467.0,Gas,6.0,auto,3.6,TOTAL 70542 km,0,43905
+11171,Daewoo,LACETTI,2009,sedan,2.0,Metallic,-9210.0,Gas,4.0,others,1.6,117685 KM,4,5883
+11262,Hyundai,Sonata,2012,SEDAN,5.0,Metallic,642.0,Gas,4.0,AUTO,2.0 Turbo,82000 KM,9,20385
+11272,Toyota,I own Highlander.,2008,Jeep0,3.0,Pearl White,1750.0,Electric Hybrid,6.0,auto,3.3,TOTAL 334414 km,12,12544
+11275,Mercedes-Benz,I own E 350.,2014,Sedan0,0.0,Metallic,1053.0,Dies,6.0,auto,3.5,TOTAL 149486 km,12,314
+11290,Ssangyong,I have the fastest model ever.. yes you got it right it's REXTON,2011,jeep,0.0,Pearl White,707.0,Dies,4.0,R,2,101708 km,4,23239
+11340,Lexus,RX 450,2010,JEEP,2.0,Metallic,-8601.0,Electric Hybrid,6.0,gear,3.5,TOTAL 311949 km,12,282
+11357,Toyota,HIGHLANDER,3012,JEEP,4.0,Metallic,11058.0,Electric Hybrid,6.0,auto,3.5,205250 KM,12,29479
+11372,Ssangyong,I own Actyon.,2016,JEEP,5.0,Sapphire Blue,730.0,Dies,0.0,others,1.6,79286  kilo,4,39085
+11390,Hyundai,Sonata,2015,SEDAN,2.0,Metallic,765.0,other,4.0,auto,2,509362,104,15367
+11399,Toyota,Corolla,2110,sedan,4.0,Charcoal,-9239.0,Gas,4.0,others,1.8,TOTAL 232507 km,0,4077
+11414,Ssangyong,my model which is Actyon is the best,2011,jeep,4.0,Metallic,707.0,Dies,14.0,auto,2,113545 km,4,21655
+11421,Hyundai,I have the fastest model ever.. yes you got it right it's Santa FE,2014,WOOW Jeep,2.0,Charcoal,639.0,Dies,4.0,others,0,106806 KM,4,45025
+11422,Hyundai,Santa FE,2015,Jeep1,1.0,Charcoal,765.0,Dies,4.0,R,2,119038  kilo,104,48108
+11474,Mercedes-Benz,E 350,2012,Sedan,0.0,Jet Black,1058.0,Dies,6.0,AUTO,3.5,318285  kilometer,12,627
+11503,Chevrolet,LACETTI,2009,sedan,2.0,Charcoal,-9210.0,Gas,4.0,auto,1.6,87250  kilometer,4,11848
+11644,Ford,I own Fiesta.,2015,sedan,5.0,Metallic,629.0,Gas,4.0,gear,1.6,0 km,12,314
+11646,Honda,my model which is Accord is the best,2015,sedan,3.0,Jet Black,10900.0,Gas,4.0,gear,2.4,129779 KM,12,8781
+11658,Toyota,Tacoma,2014,sedan,0.0,Charcoal,1190.0,Gas,16.0,AUTO,4,238203 KM,12,549
+11666,Honda,CIVIC,2017,HATCHBACK,2.0,Metallic,10784.0,Gas,4.0,auto,1.5,1461  kilo,96,40889
+11681,Toyota,Camry,2018,SEDAN,2.0,Jet Black,1327.0,Gas,4.0,auto,2.5,22000,12,49237
+11737,Hyundai,my model which is H1 is the best,2014,MINIVAN,1.0,Jet Black,777.0,Dies,0.0,auto,2.5,120309 KM,4,30583
+11834,Chevrolet,my model which is Captiva is the best,2014,Jeep,1.0,Pearl White,749.0,Gas,4.0,others,2.4,119768 km,12,314
+11899,Chevrolet,I have the fastest model ever.. yes you got it right it's Captiva,2007,JEEP,3.0,Metallic,1288.0,Dies,14.0,others,2,54114 KM,4,4861
+11924,Ford,I have the fastest model ever.. yes you got it right it's Fusion,2014,SEDAN,0.0,Metallic,10333.0,Electric Hybrid,4.0,others,2,0 km,0,1019
+11926,Buick,Century,2015,Jeep4,0.0,Jet Black,562.0,Gas,0.0,auto,1.4,107358  kilometer,12,2822
+11953,Jaguar,I have the fastest model ever.. yes you got it right it's XF,2010,sedan,2.0,Pearl White,1211.0,Dies,4.0,AUTO,3,163024  kilo,4,27435
+12001,Mercedes-Benz,I own E 350 4 matic.,2011,Sedan,3.0,Jet Black,1172.0,Gas,6.0,auto,0,108000  kilo,12,32929
+12038,Lexus,RX 450,2016,jeep,3.0,Pearl White,690.0,Electric Hybrid,6.0,auto,3.5,27038 km,12,392
+12069,Mercedes-Benz,E 300,2017,SEDAN,3.0,Jet Black,1017.0,Gas,14.0,auto,2,26802 km,88,314
+12093,Kia,I have the fastest model ever.. yes you got it right it's Optima,2014,Sedan,3.0,Metallic,638.0,Gas,4.0,gear,2,40067,4,16621
+12186,Kia,Optima,2016,sedan,3.0,Jet Black,11051.0,Gas,4.0,AUTO,2.4,38000 KM,12,12544
+12203,Lexus,GX 470,2011,Sedan3,3.0,Pearl White,1514.0,Gas,8.0,auto,4.6,202048  kilo,0,392
+12228,Hyundai,I have the fastest model ever.. yes you got it right it's Sonata,2013,Sedan,1.0,Charcoal,10751.0,Gas,0.0,auto,2.4,124800  kilo,6,16308
+12282,Chevrolet,I have the fastest model ever.. yes you got it right it's Captiva,2012,jeep,5.0,Metallic,-9358.0,Dies,4.0,AUTO,2,138292,4,25299
+12314,Chevrolet,MALIBU,2016,sedan,4.0,Jet Black,891.0,Gas,4.0,auto,2,138865  kilo,4,19676
+12417,Volkswagen,JETTA,2013,Sedan,5.0,Charcoal,585.0,Gas,4.0,others,1.8 Turbo,134400  kilo,10,11917
+12452,Honda,I own FIT.,2014,hatchback,6.0,Pearl White,247.0,Electric Hybrid,4.0,gear,1.3,102082 km,4,13702
+12482,Hyundai,Accent,2017,SEDAN,4.0,Sapphire Blue,831.0,Gas,4.0,auto,1.6,88771  kilometer,1012,1254
+12483,Hyundai,SONATA,2015,SEDAN,6.0,Metallic,441.0,Electric Hybrid,4.0,auto,0,135730  kilo,0,470
+12510,Hyundai,I have the fastest model ever.. yes you got it right it's Tucson,2012,jeep,4.0,Charcoal,642.0,Dies,4.0,auto,2,166122  kilo,4,20237
+12525,Chevrolet,Volt,2017,hatchback,5.0,Charcoal,382.0,Electric Hybrid,14.0,auto,1.5,125358 km,0,188
+12552,Hyundai,I own Tucson.,2011,jeep,0.0,Metallic,707.0,Dies,4.0,auto,2,106360 km,4,20237
+12615,Lexus,I have the fastest model ever.. yes you got it right it's GX 460,2015,WOOW Jeep,3.0,Jet Black,1646.0,Gas,8.0,R,4.6,188078 km,0,5018
+12641,Ford,C-MAX SEL,2013,HATCHBACK,2.0,Pearl White,640.0,Electric Hybrid,4.0,R,2,96289 km,92,16151
+12651,Chevrolet,MALIBU,2016,WOOW Sedan,5.0,Metallic,690.0,Gas,4.0,gear,1.5,86000 km,8,13172
+12674,Hyundai,I own Elantra.,2010,SEDAN,4.0,Charcoal,10687.0,Gas,4.0,auto,1.6,87640 km,4,14834
+12703,Toyota,Camry,2014,SEDAN,6.0,Pearl White,10394.0,Electric Hybrid,4.0,auto,2.5,130478 KM,12,862
+12756,Chevrolet,my model which is Volt is the best,2011,SEDAN,1.0,Jet Black,521.0,hyb,4.0,others,1.4,159200 km,6,19444
+12783,Chevrolet,Lacetti,2010,WOOW Sedan,5.0,Charcoal,687.0,Gas,4.0,auto,1.6,60000 KM,4,12570
+12832,Lexus,GX 470,2010,jeep,3.0,Charcoal,1811.0,Gas,8.0,gear,0,357246 km,0,16308
+12862,Toyota,AQUA,2012,HATCHBACK,3.0,Charcoal,503.0,Gas,4.0,others,1.5,79092 KM,4,16900
+12873,Honda,FIT,2013,HATCHBACK,5.0,Metallic,447.0,Gas,4.0,auto,1.3,52320 km,4,17264
+12889,Lexus,IS 350,2014,sedan,6.0,Jet Black,-8947.0,Gas,6.0,auto,3.5,TOTAL 89315 km,12,549
+12922,BMW,X5,2011,jeep,0.0,Charcoal,-8982.0,Gas,6.0,others,3,170043 km,12,11133
+12946,Toyota,I have the fastest model ever.. yes you got it right it's Prius C,2012,HATCHBACK,-1.0,Pearl White,10503.0,Electric Hybrid,14.0,R,1.5,208000,6,13485
+12968,Toyota,I have the fastest model ever.. yes you got it right it's CHR,2018,JEEP,2.0,Metallic,-8921.0,Gas,4.0,others,2,46733  kilometer,12,549
+12989,Toyota,PRIUS,3010,JEEP,0.0,Pearl White,-9239.0,Electric Hybrid,4.0,others,1.8,408997 KM,12,470
+13004,Ssangyong,ACTYON,2017,jeep,0.0,Pearl White,10831.0,Dies,0.0,R,1.6,65249 km,4,31421
+13051,Audi,I own A6.,2016,sedan,3.0,Charcoal,-9109.0,Gas,4.0,AUTO,2,97826 KM,0,549
+13066,Toyota,HIGHLANDER,2010,jeep,3.0,Charcoal,1399.0,Gas,6.0,others,3.5,156645,12,862
+13095,Hyundai,I own Elantra.,2014,SEDAN,4.0,Sapphire Blue,10584.0,Gas,4.0,auto,1.8,133502 KM,0,17249
+13112,Hyundai,I have the fastest model ever.. yes you got it right it's H1,2016,MINIVAN,3.0,Metallic,-8909.0,Dies,4.0,auto,2.5,90132  kilo,4,36899
+13121,Volkswagen,I own Jetta.,2013,sedan,3.0,Pearl White,779.0,Gas,5.0,gear,2.5,105800 KM,8,17562
+13169,Hyundai,my model which is Santa FE is the best,2014,JEEP,3.0,Pearl White,694.0,Dies,4.0,auto,2.2,188679 km,4,41917
+13178,Ssangyong,I own Korando.,2013,WOOW Jeep,2.0,Tangerine,640.0,Dies,4.0,gear,2,115701 KM,4,24029
+13282,Subaru,Forester,2012,JEEP,4.0,Jet Black,781.0,Gas,4.0,auto,2.5,TOTAL 204579 km,0,314
+13330,Mercedes-Benz,E 350,2011,SEDAN,4.0,Metallic,1172.0,Dies,0.0,auto,3.5,119379,12,16621
+13331,Toyota,Tacoma,2013,SEDAN,2.0,Metallic,1194.0,Gas,6.0,auto,4,57554 km,12,19130
+13332,Ssangyong,REXTON,2011,JEEP,3.0,Jet Black,924.0,Dies,14.0,auto,2.7,TOTAL 332077 km,4,11760
+13389,Honda,I have the fastest model ever.. yes you got it right it's FIT,2015,Hatchback,1.0,Pearl White,308.0,Electric Hybrid,4.0,others,1.5,98937 km,4,12548
+13414,Hyundai,Elantra,2015,sedan,3.0,Jet Black,697.0,Gas,0.0,AUTO,1.8,57000,10,19757
+13475,Nissan,ALTIMA,2018,SEDAN,1.0,Charcoal,11327.0,Gas,4.0,auto,2.5,147947 km,12,5175
+13481,Lexus,my model which is RX 400 is the best,2008,JEEP,1.0,Jet Black,1850.0,Electric Hybrid,0.0,R,3.5,364523  kilo,12,941
+13486,Hyundai,Sonata,2015,SEDAN,3.0,Tangerine,-9235.0,other,4.0,others,2,536315 km,4,9722
+13510,Toyota,Prius,2015,Hatchback3,0.0,Pearl White,-9647.0,Electric Hybrid,4.0,R,1.8,TOTAL 67074 km,12,8781
+13571,Hyundai,SANTA FE,2016,JEEP,2.0,Jet Black,-9109.0,Dies,4.0,others,0,45156  kilometer,4,37580
+13617,Toyota,Tacoma,2019,sedan,1.0,Metallic,1820.0,Gas,6.0,auto,0,17542  kilo,12,31047
+13636,Toyota,my model which is Aqua is the best,1912,Hatchback2,2.0,Lemon Yellow,503.0,Gas,14.0,auto,0,91000 KM,4,19823
+13659,Chevrolet,I have the fastest model ever.. yes you got it right it's Malibu,2114,sedan,4.0,Jet Black,627.0,Dies,4.0,auto,2,TOTAL 31115 km,4,14113
+13661,Hyundai,I own Sonata.,2015,SEDAN,2.0,Metallic,765.0,other,4.0,auto,0,48000,4,9879
+13662,Hyundai,SONATA,2016,SEDAN,2.0,Metallic,10891.0,other,4.0,gear,2,219432 km,4,15681
+13746,Toyota,I own Camry.,3012,WOOW Sedan,-1.0,Charcoal,781.0,Electric Hybrid,14.0,auto,2.5,314373 km,12,392
+13775,Toyota,SIENNA,2013,MINIVAN,2.0,Charcoal,1055.0,Gas,6.0,auto,3.5,144000 km,12,36065
+13783,Chevrolet,my model which is Malibu is the best,2012,SEDAN,1.0,Jet Black,-9358.0,Gas,4.0,AUTO,2,156743 km,4,20266
+13827,Hyundai,Sonata,2015,SEDAN,4.0,Charcoal,10765.0,Gas,4.0,others,2,90621  kilo,4,37984
+13856,Toyota,I have the fastest model ever.. yes you got it right it's Camry,1913,sedan,0.0,Metallic,779.0,Gas,4.0,auto,2.5,0 km,12,1646
+13869,Chevrolet,Orlando,2017,JEEP,3.0,Charcoal,1017.0,other,0.0,auto,2,204067 km,4,21395
+13875,Hyundai,Sonata,1910,sedan,1.0,Pearl White,836.0,Gas,4.0,R,2,161240  kilometer,4,13877
+13879,Chevrolet,CRUZE,2009,sedan,2.0,Jet Black,965.0,Dies,4.0,auto,2,74830 km,4,6752
+13902,Mazda,I have the fastest model ever.. yes you got it right it's 616,2018,jeep,2.0,Charcoal,1327.0,Gas,4.0,others,2.5,21328  kilometer,12,6586
+13922,Opel,ASTRA,2008,HATCHBACK,2.0,Metallic,10792.0,Gas,14.0,others,1.4,157000 km,6,12950
+13950,nissan,Juke,3015,JEEP,2.0,Pearl White,629.0,Gas,4.0,auto,1.6,88475  kilo,0,3763
+14001,Toyota,Aqua,2113,Hatchback0,0.0,Crimson,11267.0,Electric Hybrid,4.0,AUTO,1.5,142000 km,10,10349
+14038,Toyota,I own Prius.,2012,hatchback,3.0,Pearl White,586.0,Electric Hybrid,4.0,auto,1.8,418667,12,314
+14066,Hyundai,Elantra,2010,Sedan4,3.0,Metallic,687.0,Gas,4.0,gear,1.6,115783,4,13658
+14081,Buick,Encore,2017,jeep,1.0,Jet Black,738.0,Gas,4.0,auto,1.4 Turbo,26954 KM,8,23521
+14126,Toyota,CAMRY,2014,Sedan,1.0,Emerald Green,394.0,Electric Hybrid,4.0,auto,2.5,TOTAL 128739 km,12,2274
+14138,Toyota,my model which is RAV 4 is the best,2015,jeep,1.0,Pearl White,934.0,Gas,4.0,others,2.5,71104  kilometer,6,46728
+14170,Volkswagen,Tiguan,2013,Jeep1,2.0,Metallic,640.0,Gas,4.0,auto,2.0 Turbo,95000 km,12,17249
+14186,Toyota,my model which is Sienta is the best,2015,MINIVAN,0.0,Pearl White,1552.0,Electric Hybrid,4.0,auto,1.5,0  kilo,2,18000
+14225,Toyota,I own Aqua.,2014,hatchback,3.0,Pearl White,501.0,Gas,4.0,others,1.5,133000 km,4,11450
+14249,Toyota,I own Highlander.,2008,jeep,2.0,Charcoal,1750.0,Electric Hybrid,6.0,AUTO,3.3,277405 km,12,627
+14264,Toyota,my model which is Camry is the best,2014,sedan,3.0,Jet Black,-9606.0,Electric Hybrid,4.0,AUTO,2.5,179381  kilo,12,11133
+14404,Mercedes-Benz,I own GLA 250.,2015,Jeep,3.0,Pearl White,765.0,Gas,4.0,auto,2,93304  kilo,0,5018
+14432,Ford,FUSION,2014,sedan,4.0,Jet Black,-9667.0,Electric Hybrid,4.0,auto,2,27700,12,14113
+14434,Chevrolet,I own Lacetti.,2009,sedan,7.0,Charcoal,790.0,Gas,4.0,R,1.6,111770  kilometer,4,13150
+14450,Ford,TAURUS,2018,jeep,0.0,Pearl White,1823.0,Gas,6.0,AUTO,3.5,12824,12,5331
+14477,Toyota,Prius C,2017,Hatchback,4.0,Sapphire Blue,10382.0,Electric Hybrid,4.0,auto,1.5,26724  kilometer,1012,14426
+14538,Toyota,Camry,2014,SEDAN,4.0,Jet Black,394.0,Electric Hybrid,4.0,auto,2.5,102397 KM,12,784
+14541,Honda,FIT,2011,hatchback,2.0,Emerald Green,11236.0,Electric Hybrid,4.0,others,1.3,123000,105,9095
+14563,Hyundai,I own Sonata.,2115,Sedan,0.0,Tangerine,765.0,other,4.0,others,2,455579 km,4,9252
+14577,BMW,my model which is X5 is the best,2011,JEEP,7.0,Jet Black,1018.0,Dies,6.0,gear,0,332243 km,0,10349
+14601,Hyundai,I have the fastest model ever.. yes you got it right it's Sonata,2012,Sedan2,5.0,Crimson,753.0,Electric Hybrid,4.0,others,2.4,259934  kilo,0,4077
+14605,Ssangyong,ACTYON,2016,jeep,4.0,Pearl White,730.0,Gas,4.0,auto,1.6,28699 km,104,44166
+14697,Toyota,HIGHLANDER,2010,jeep,1.0,Sapphire Blue,11324.0,Electric Hybrid,6.0,others,3.3,300366 KM,12,14269
+14702,Hyundai,Santa FE,2020,Sedan0,0.0,Pearl White,1273.0,Gas,4.0,auto,2.4,TOTAL 15149 km,12,16308
+14728,Ford,I have the fastest model ever.. yes you got it right it's Fusion,1914,sedan,0.0,Pearl White,333.0,Electric Hybrid,4.0,auto,2,124493 km,0.,4861
+14734,Kia,OPTIMA,2016,SEDAN,4.0,Ruby Red,1051.0,Gas,4.0,others,2.4,74500  kilo,1012,22580
+14751,Hyundai,SANTA FE,2012,Jeep,5.0,Pearl White,642.0,Dies,4.0,auto,0,138013 KM,4,32340
+14779,Hyundai,I own Elantra.,2016,sedan,-1.0,Charcoal,730.0,other,4.0,others,1.6,138241 km,96,21395
+14783,Toyota,Prius,2014,HATCHBACK,0.0,Charcoal,271.0,Electric Hybrid,4.0,auto,1.5,89986  kilometer,100,18817
+14837,Chevrolet,my model which is Equinox is the best,2013,jeep,3.0,Jet Black,-9249.0,Gas,14.0,others,2.4,160242,12,627
+14853,Toyota,my model which is RAV 4 is the best,2010,JEEP,0.0,Jet Black,1024.0,Gas,0.0,others,2.5,136171 km,12,2822
+14873,Hyundai,I own H1.,2014,minivan,1.0,Lemon Yellow,777.0,Dies,14.0,others,0,198916 km,4,25264
+14889,Mazda,CX-7,2011,sedan,1.0,Jet Black,862.0,Gas,4.0,R,2.5,216550 km,12,549
+14895,Toyota,AQUA,2012,HATCHBACK,1.0,Metallic,1268.0,Electric Hybrid,14.0,auto,1.5,180000 KM,4,10349
+14939,Kia,OPTIMA HYBRID,2014,sedan,4.0,Charcoal,382.0,Electric Hybrid,14.0,auto,2.4,269513 km,8,15524
+14991,Toyota,my model which is Prius is the best,2009,HATCHBACK,3.0,Metallic,-9122.0,Gas,4.0,auto,1.8,211200 km,0,17876
+15001,Hyundai,my model which is Sonata is the best,2013,SEDAN,1.0,Ruby Red,751.0,Electric Hybrid,0.0,auto,2.4,115000 KM,108,17249
+15003,Lexus,CT 200h,2011,WOOW Hatchback,1.0,Jet Black,645.0,Electric Hybrid,14.0,auto,1.8,228610 km,12,470
+15021,Infiniti,G37,2011,sedan,4.0,Metallic,-8766.0,Gas,6.0,others,3.7,158128 KM,12,470
+15108,Ssangyong,REXTON,2009,JEEP,5.0,Metallic,-8727.0,Dies,4.0,R,2.7,77016 KM,4,9063
+15133,Hyundai,I own Elantra.,2011,Sedan2,4.0,Jet Black,645.0,Gas,4.0,auto,0,148552  kilo,112,13485
+15163,Hyundai,Sonata,2014,SEDAN,1.0,Sapphire Blue,749.0,Gas,4.0,auto,2.4,0  kilo,12,1803
+15210,Ford,I own Fusion.,2013,sedan,0.0,Metallic,530.0,Gas,4.0,auto,1.6 Turbo,201000 KM,12,9722
+15269,Toyota,my model which is Camry is the best,2014,SEDAN,3.0,Pearl White,777.0,Gas,4.0,auto,2.5,219150 km,12,12858
+15293,Honda,I have the fastest model ever.. yes you got it right it's FIT,2017,UNIVERSAL,2.0,Sapphire Blue,382.0,Electric Hybrid,4.0,AUTO,1.5,22099  kilo,4,41259
+15314,Toyota,TACOMA,2113,jeep,3.0,Pearl White,834.0,Gas,4.0,auto,0,158870  kilo,12,314
+15338,Toyota,PRIUS C,2113,WOOW Hatchback,4.0,Sapphire Blue,502.0,Electric Hybrid,4.0,auto,1.5,142000 km,8,12544
+15341,Mercedes-Benz,CLS 550,2012,Sedan,4.0,Jet Black,1391.0,Gas,8.0,auto,4.7 Turbo,152000 km,12,15681
+15343,Ssangyong,REXTON,2011,JEEP,5.0,Jet Black,707.0,Dies,4.0,gear,2,183590 KM,4,21739
+15357,Chevrolet,I own Volt.,2013,hatchback,3.0,Jet Black,474.0,Electric Hybrid,4.0,auto,1.4,126400 km,6,23521
+15370,Hyundai,I own Sonata.,2012,sedan,4.0,Jet Black,753.0,Gas,4.0,auto,2.4,147200 km,8,15681
+15399,Hyundai,my model which is Elantra is the best,2020,sedan,3.0,Jet Black,1076.0,Gas,14.0,others,2,261,12,3293
+15433,Toyota,I own Corolla.,2015,SEDAN,6.0,Pearl White,697.0,Gas,4.0,auto,1.8,152630  kilo,12,4861
+15465,Ssangyong,KORANDO,2011,jeep,4.0,Jet Black,707.0,Dies,4.0,auto,2,120005 KM,4,22621
+15466,Chevrolet,I own Captiva.,2016,jeep,2.0,Jet Black,10891.0,Dies,4.0,auto,2,48774,4,49174
+15482,Mercedes-Benz,I have the fastest model ever.. yes you got it right it's E 350,2010,SEDAN,0.0,Jet Black,1399.0,Dies,6.0,others,3.5,189530  kilo,12,12388
+15516,Honda,FIT,2013,WOOW Hatchback,1.0,Tangerine,502.0,Gas,14.0,auto,1.5,55948  kilometer,4,26858
+15542,Hyundai,I have the fastest model ever.. yes you got it right it's Elantra,2017,Sedan,4.0,Charcoal,831.0,Gas,4.0,gear,0,16687  kilo,104,21639
+15551,Hyundai,SONATA,2013,SEDAN,6.0,Metallic,751.0,Electric Hybrid,0.0,AUTO,2.4,126690 km,0,2744
+15639,Toyota,I own Highlander.,2008,JEEP,4.0,Metallic,1750.0,Electric Hybrid,6.0,auto,3.3,TOTAL 269162 km,12,1646
+15647,Lexus,CT 200h,2015,HATCHBACK,0.0,Charcoal,10353.0,Electric Hybrid,4.0,auto,1.8,115347 km,0,392
+15673,Hyundai,my model which is Elantra is the best,2012,SEDAN,3.0,Jet Black,10586.0,Gas,4.0,auto,1.8,240560 km,12,1019
+15696,Lexus,I have the fastest model ever.. yes you got it right it's GX 460,2015,WOOW Jeep,0.0,Jet Black,1646.0,Gas,8.0,auto,0,129931 km,0,784
+15704,Ford,FUSION,2012,Sedan,1.0,Pearl White,531.0,Gas,0.0,auto,1.6 Turbo,82000  kilo,4,12231
+15706,Hyundai,Elantra,2019,sedan,3.0,Charcoal,1077.0,Gas,0.0,auto,2,16013 km,12,1176
+15711,Subaru,I own XV.,2013,sedan,0.0,Charcoal,640.0,Gas,4.0,R,2,TOTAL 333208 km,100,1803
+15819,Daewoo,LACETTI,2009,sedan,0.0,Metallic,966.0,Gas,4.0,AUTO,2,74540 km,4,4679
+15828,Hyundai,SANTA FE,2011,jeep,3.0,Pearl White,769.0,Dies,0.0,others,2.2,188787  kilo,4,26861
+15874,Mercedes-Benz,GLA 250,2017,jeep,5.0,Jet Black,1017.0,Gas,4.0,auto,2,44995 km,0,42651
+15879,Lexus,GX 460,2017,jeep,4.0,Pearl White,-7775.0,Gas,0.0,others,4.6,69918 KM,0,470
+15952,Hyundai,SONATA,2012,Sedan0,2.0,Metallic,753.0,Gas,4.0,AUTO,2.4,181131 km,12,941
+15995,Chevrolet,I own Cruze.,2013,Sedan1,2.0,Jet Black,474.0,Gas,0.0,gear,1.4,89000  kilometer,8,9000
+15999,BMW,I have the fastest model ever.. yes you got it right it's X5,2013,jeep,3.0,Jet Black,917.0,Dies,16.0,auto,3,88829,12,9408
+16002,Kia,Optima,2017,WOOW Sedan,4.0,Pearl White,870.0,Dies,4.0,gear,1.7,30098 km,4,39044
+16003,BMW,I own 535.,1911,Sedan,2.0,Charcoal,1018.0,Gas,6.0,auto,3,249600  kilo,12,23521
+16044,NISSAN,Juke,2015,jeep,2.0,Metallic,10629.0,Gas,4.0,gear,1.6 Turbo,74000  kilo,10,23207
+16096,Mercedes-Benz,I own E 350.,2011,sedan,0.0,Jet Black,1172.0,Gas,6.0,others,3.5,129000  kilo,12,35124
+16137,Honda,FIT PREMIUM PAKETI,2011,Hatchback3,1.0,Pearl White,1236.0,Electric Hybrid,4.0,R,1.3,93000 KM,4,8147
+16147,Hyundai,Genesis,2010,COUPE,2.0,Jet Black,836.0,Gas,0.0,AUTO,0,170000 KM,4,13796
+16180,Hyundai,ELANTRA,2015,SEDAN,5.0,Pearl White,-9371.0,Gas,4.0,others,1.6,75000 km,4,20526
+16191,Daewoo,LACETTI,2009,SEDAN,1.0,Metallic,790.0,Gas,4.0,auto,1.6,TOTAL 45258 km,4,5811
+16228,nissan,I own Murano.,2017,Sedan,6.0,Sapphire Blue,1714.0,Gas,6.0,auto,3.5,39704  kilo,12,8154
+16237,Chevrolet,I own Lacetti.,2009,sedan,7.0,Charcoal,966.0,Dies,4.0,auto,2,186836 KM,4,10092
+16318,Mercedes-Benz,C 300,2115,SEDAN,1.0,Pearl White,765.0,Gas,4.0,auto,2,TOTAL 133048 km,12,4077
+16352,Ssangyong,I have the fastest model ever.. yes you got it right it's Actyon,2011,jeep,0.0,Crimson,707.0,Dies,4.0,auto,2,129302 km,4,20297
+16362,Mercedes-Benz,ML 350,2012,jeep,2.0,Pearl White,-8942.0,Gas,6.0,others,3.5,224118 KM,12,94
+16388,Toyota,my model which is Prius is the best,2012,sedan,6.0,Jet Black,586.0,Electric Hybrid,4.0,auto,1.8,430278  kilometer,12,2195
+16404,Mercedes-Benz,E 350,2014,sedan,3.0,Jet Black,1053.0,Dies,6.0,auto,0,219030,12,29793
+16452,Hyundai,I have the fastest model ever.. yes you got it right it's Sonata,3013,Sedan,2.0,Metallic,-9360.0,other,4.0,others,2,48595 KM,4,9408
+16492,Toyota,I have the fastest model ever.. yes you got it right it's Highlander,2011,JEEP,-2.0,Charcoal,-8828.0,Gas,6.0,AUTO,3.5,368064 km,12,22580
+16542,Mercedes-Benz,my model which is C 250 is the best,2014,Sedan1,7.0,Charcoal,584.0,Gas,4.0,AUTO,1.8,64270,0,23521
+16564,Hyundai,H1,2013,Universal,2.0,Metallic,779.0,Dies,4.0,auto,2.5,197441  kilo,4,23129
+16580,Hyundai,I30,2009,hatchback,5.0,Crimson,790.0,Gas,4.0,auto,1.6,56577  kilo,4,9565
+16619,Honda,FIT,2014,hatchback,4.0,Metallic,-8734.0,Electric Hybrid,4.0,R,1.5,70000 km,2,12231
+16630,Toyota,HIGHLANDER,2009,sedan,1.0,Jet Black,1624.0,Electric Hybrid,6.0,others,3.5,297378 KM,12,627
+16649,Hyundai,Tucson,2010,jeep,3.0,Charcoal,-9164.0,Dies,4.0,auto,2,TOTAL 118514 km,4,25512
+16667,Hyundai,I own Elantra.,2012,SEDAN,3.0,Pearl White,531.0,Gas,4.0,others,1.6,107179,4,20005
+16672,Ssangyong,I own REXTON.,2011,Jeep,4.0,Jet Black,707.0,Dies,4.0,gear,0,256175 km,4,20266
+16676,Toyota,PRIUS,2007,WOOW Hatchback,3.0,Emerald Green,988.0,Electric Hybrid,0.0,auto,1.5,0,8,10349
+16715,Chevrolet,I have the fastest model ever.. yes you got it right it's Volt,3014,sedan,5.0,Pearl White,259.0,hyb,4.0,auto,1.4,TOTAL 121000 km,90,27284
+16869,Hyundai,Sonata,2015,Sedan4,3.0,Metallic,-9235.0,other,4.0,auto,2,272769 KM,4,15053
+16875,Hyundai,LANTRA,2111,sedan,6.0,Jet Black,645.0,Gas,4.0,auto,0,95000  kilo,8,17249
+16959,Hyundai,my model which is Sonata is the best,2011,sedan,1.0,Pearl White,831.0,Gas,4.0,auto,2.4,185600  kilometer,12,11604
+16966,Volkswagen,Passat,2017,sedan,5.0,Sapphire Blue,10924.0,Gas,4.0,auto,1.8,67120,12,10349
+16988,Lexus,I own CT 200h.,1912,hatchback,4.0,Chocolate,586.0,Electric Hybrid,4.0,auto,1.8,89000  kilo,90,22894
+17013,Chevrolet,my model which is Volt is the best,2014,HATCHBACK,1.0,Jet Black,259.0,Electric Hybrid,0.0,auto,1.4,138491,0,3763
+17031,Hyundai,H1,2008,minivan,0.0,Sapphire Blue,1347.0,Dies,0.0,auto,2.5,71545 km,4,15681
+17050,Toyota,my model which is CHR is the best,2018,WOOW Jeep,4.0,Charcoal,1079.0,Gas,14.0,auto,2,22816 km,12,392
+17055,Toyota,my model which is Highlander is the best,2008,jeep,3.0,Jet Black,1750.0,Electric Hybrid,6.0,auto,3.3,182024 km,12,470
+17085,Hyundai,Sonata,2015,SEDAN,2.0,Metallic,765.0,other,4.0,auto,2,274844 km,4,10663
+17122,Hyundai,my model which is Elantra is the best,2013,Sedan2,3.0,Metallic,-9415.0,Gas,4.0,auto,1.8,139867 KM,0,17249
+17141,Lexus,RX 450,2010,Jeep1,5.0,Charcoal,11399.0,Electric Hybrid,16.0,auto,3.5,317470  kilo,12,220
+17142,Fiat,500 SPORT,2012,hatchback,2.0,Crimson,475.0,Gas,14.0,AUTO,1.4,92800  kilometer,107,11917
+17186,Audi,I own Q7.,2011,sedan,-1.0,Metallic,11018.0,Dies,6.0,R,3,232554,0,2352
+17193,Mazda,I have the fastest model ever.. yes you got it right it's 1000,2015,sedan,3.0,Crimson,-9066.0,Gas,4.0,gear,2.5,113102,12,627
+17347,Hyundai,Grandeur,2011,Sedan,2.0,Metallic,1018.0,other,4.0,R,3,42561 km,4,9722
+17349,Toyota,PRIUS,2013,sedan,2.0,Pearl White,10585.0,Electric Hybrid,4.0,AUTO,0,114526  kilometer,12,392
+17352,Toyota,HIGHLANDER,2011,JEEP,4.0,Jet Black,1172.0,Electric Hybrid,6.0,R,3.5,342622 km,12,1568
+17502,Honda,I own Civic.,2016,coupe,5.0,Sapphire Blue,891.0,Gas,4.0,auto,2,53938  kilo,4,45204
+17521,Honda,I have the fastest model ever.. yes you got it right it's Civic,2015,WOOW Sedan,3.0,Sapphire Blue,10308.0,Electric Hybrid,4.0,AUTO,1.5,49272 km,0,4861
+17530,Toyota,I have the fastest model ever.. yes you got it right it's Camry se,2114,sedan,4.0,Pearl White,777.0,Gas,4.0,auto,2.5,108000  kilo,10,22580
+17586,Mercedes-Benz,E 350,2011,WOOW Sedan,3.0,Sapphire Blue,1172.0,Dies,6.0,R,3.5,64496 KM,12,13642
+17610,Hyundai,I have the fastest model ever.. yes you got it right it's Elantra se,2014,sedan,3.0,Pearl White,584.0,Gas,0.0,auto,1.8,60400 KM,6,16621
+17611,Mercedes-Benz,I own E 350.,2009,SEDAN,3.0,Jet Black,1624.0,Dies,6.0,auto,3.5,266061,12,1411
+17632,Volkswagen,TOUAREG,2012,jeep,2.0,Pearl White,919.0,Dies,6.0,others,3,242955,12,188
+17638,Hyundai,SONATA,2015,SEDAN,2.0,Metallic,765.0,other,4.0,others,2,51274  kilo,4,15367
+17658,Lexus,GX 470,2008,JEEP,0.0,Jet Black,2455.0,Gas,8.0,others,4.7,218126  kilo,0,282
+17782,Mercedes-Benz,I own CLA 250.,2014,sedan,2.0,Charcoal,639.0,Gas,4.0,auto,2,0,12,549
+17793,Ssangyong,I have the fastest model ever.. yes you got it right it's Korando,2011,Jeep0,3.0,Metallic,10707.0,Dies,4.0,auto,2,128171 KM,4,20266
+17827,Toyota,my model which is Highlander is the best,2008,Jeep1,5.0,Metallic,1750.0,Electric Hybrid,0.0,R,3.3,260053  kilometer,12,549
+17830,Chevrolet,I have the fastest model ever.. yes you got it right it's Malibu,2015,Sedan3,1.0,Jet Black,-9236.0,Gas,4.0,R,0,33034,4,14113
+17845,Chevrolet,I own Orlando.,2015,WOOW Jeep,2.0,Sapphire Blue,-9235.0,Dies,4.0,AUTO,2,61000 km,4,34127
+17885,Toyota,PRIUS,2013,sedan,5.0,Pearl White,585.0,Electric Hybrid,4.0,auto,1.8,361445 km,12,6586
+17937,Hyundai,my model which is Sonata is the best,2011,sedan,3.0,Charcoal,831.0,Electric Hybrid,14.0,others,0,224349 KM,0,3450
+17963,Honda,I have the fastest model ever.. yes you got it right it's FIT,2012,jeep,1.0,Pearl White,10503.0,Gas,4.0,AUTO,1.5,TOTAL 277856 km,0,706
+17982,Toyota,RAV 4,2015,WOOW Jeep,3.0,Charcoal,934.0,Gas,4.0,auto,0,149019  kilometer,0,28225
+17985,Kia,OPTIMA,2015,SEDAN,0.0,Jet Black,900.0,Gas,14.0,R,2.4,135410  kilo,12,2587
+18013,Hyundai,SONATA,2011,Sedan,0.0,Crimson,831.0,Gas,4.0,auto,2.4,161600  kilo,8,15681
